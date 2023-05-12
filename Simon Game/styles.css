@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: #ffffff;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #000000;
+}
+
+.container-fluid {
+  max-width: 50%;
+}
+
+.col-sm-6 {
+  max-height: 200px;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+#sources {
+  margin: 5% 0;
+}
